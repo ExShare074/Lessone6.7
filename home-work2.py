@@ -16,3 +16,5 @@ if is_palindrome(string):
 else:
     print(f"'{string}' не является палиндромом")
 
+
+
